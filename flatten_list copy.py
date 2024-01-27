@@ -12,4 +12,6 @@ print(hash(a))
 print(type(...))
 
 print(type(...))
+print(type(...))
+
 
